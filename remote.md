@@ -1,1 +1,4 @@
-
+- 工具网站：https://swelist.com/
+- 仓库：https://github.com/SimplifyJobs/Summer2025-Internships
+- linkedin
+- handshake
