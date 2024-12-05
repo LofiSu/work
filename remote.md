@@ -2,3 +2,4 @@
 - 仓库：https://github.com/SimplifyJobs/Summer2025-Internships
 - linkedin
 - handshake
+- Job List: https://simplify.jobs/lists
